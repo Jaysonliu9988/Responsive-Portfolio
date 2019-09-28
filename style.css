@@ -1,0 +1,535 @@
+/* index */
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 5px;
+}
+
+body {
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+.index {
+    background-color: #4aaaa5;
+    color: white;
+    height: 70px;
+    float: left;
+    width: 205px;
+    padding: 5px;
+    margin-left: 155px;
+    text-align: center;
+    font-family: none;
+    font-weight: none;
+}
+
+img {
+    height: 150px;
+    width: 180px;
+    float: left; 
+}
+ 
+.main {
+    background-color:#dddddd;
+    padding: 5px;
+    padding-top: 25px;
+}
+
+#content {
+    background-color: #ffffff;
+    margin-left: 12%;
+    margin-bottom: 10%;
+    width: 960px;
+    padding: 25px;
+    padding-top: 5px;
+}
+
+#content h2{
+    float: auto;
+    color: #4aaaa5;
+}
+#p1 {
+    overflow: auto;
+    margin: -20px;
+    padding: 15px;
+}
+
+#p2 {
+    margin-top: 30px;
+}
+
+#title {
+    background-color: #ffffff;
+    overflow: auto;
+    padding-top: 5px;
+}
+
+
+
+#title ul{
+    padding: 0;
+    list-style: none;
+    float: right;
+    margin-top: 25px;
+    margin-right: 150px;
+}
+#title li{
+    display: inline;
+    padding: 15px;
+}
+
+#logo {
+    display: inline;
+    float: left;
+    width: 25%;
+}
+
+#topnav {
+    display: inline;
+    width: 75%;
+}
+
+#topfooter {
+    padding: 3px;
+    background: #4aaaa5;
+    clear: both;
+}
+.indexfooter {
+    padding: 10px;
+    background: #666666;
+    text-align: center;
+  }
+
+footer {
+    padding: 10px;
+    background: #666666;
+    text-align: center;
+    margin: -5px;
+  }
+
+.form-group {
+    padding-bottom: 5px;
+}
+
+.my-form {
+    padding-bottom: 20px;
+}
+
+.my-form label{
+    display: block;
+}
+
+.my-form input[type="text"], .my-form textarea{
+    padding: 8px;
+    width: 100%;
+}
+
+.my-form textarea{
+    height: 120px;
+}
+.my-form input[type="Submit"]{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 8px 25px;
+    border: none;
+}
+
+#content3 {
+    background-color: #ffffff;
+    margin-left: 22%;
+    margin-right: 22%;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#content3 h2{
+    float: auto;
+    color: #4aaaa5;
+}
+
+.main3 {
+    background-color:#dddddd;
+    padding: 5px;
+    padding-top: 25px;
+}
+
+#contactfooter {
+    padding: 5px;
+    background: #4aaaa5;
+    clear: both;
+    margin-top: 12%;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+/* portfolio */
+
+.box1 {
+    float: left;
+    background: #eee;
+    width: 30%;
+    color: #fff;
+    height: 120px;
+    margin-top: 30px;
+    background-image: url(http://lorempixel.com/400/200/technics/1)
+  }
+
+.box2 {
+    float: right;
+    background: #eee;
+    width: 30%;
+    color: #fff;
+    height: 120px;
+    margin-right: 230px;
+    margin-top: 30px;
+    background-image: url(http://lorempixel.com/400/200/technics/2)
+}
+
+.box3 {
+    float: left;
+    background: #eee;
+    width: 30%;
+    color: #fff;
+    height: 120px;
+    margin-top: 30px;
+    background-image: url(http://lorempixel.com/400/200/technics/3)
+}
+
+.box4 {
+    float: right;
+    background: #eee;
+    width: 30%;
+    color: #fff;
+    height: 120px;
+    margin-right: 230px;
+    margin-top: 30px;
+    background-image: url(http://lorempixel.com/400/200/technics/4)
+}
+
+.box5 {
+    float: left;
+    background: #eee;
+    width: 30%;
+    color: #fff;
+    height: 120px;
+    margin-top: 30px;
+    background-image: url(http://lorempixel.com/400/200/technics/5)
+}
+
+.portfolio {
+    margin-left: 22.4%;
+    background-color: #4aaaa5;
+    color: white;
+    float: left;
+    font-family: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+    padding-bottom: 2px
+}
+
+#portfolio {
+    background-color: #ffffff;
+    overflow: auto;
+    padding-top: 5px;
+
+}
+.main2 {
+    background-color:#dddddd;
+    padding: 5px;
+    padding-top: 25px;
+}
+
+#content2 {
+    background-color: #ffffff;
+    height: 560px;
+    margin-left: 22%;
+    margin-right: 22%;
+    padding: 25px;
+    padding-top: 5px;
+}
+
+#content2 h2{
+    float: auto;
+    color: #4aaaa5;
+}
+
+#title2 {
+    background-color: #ffffff;
+    overflow: auto;
+    padding-top: 5px;
+}
+
+#title2 li{
+    display: inline;
+    padding: 5px;
+}
+
+
+#title2 ul{
+    padding: 0;
+    list-style: none;
+    float: right;
+    margin-top: 25px;
+    margin-right: 22.4%;
+}
+
+aside {
+    margin-top: 70px;
+    padding: 20px;
+    text-decoration-color: white;
+    background: #4aaaa5;
+    height: 15px;
+    border: 1px solid #eee;
+    text-align: center;
+    line-height: 5px;
+  }
+
+  #portfooter {
+    padding: 5px;
+    background: #4aaaa5;
+    clear: both;
+    margin-top: 50px;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+      background-color: #333;
+    }
+
+    #content {
+        background-color: #ffffff;
+        margin-bottom: 40%;
+        padding: 25px;
+        padding-top: 5px;
+        margin-left: 1%;
+        width: 98%;
+    }
+
+    .index {
+        margin-left: 2%;
+    }
+
+    #title ul{
+        margin-top: 20px;
+        margin-right: 1px;
+    }
+
+    #p1 {
+        overflow: auto;
+        margin: 5px;
+        padding: 5px;
+    }
+    
+    #p2 {
+        margin-top: 5px;
+    }
+
+    #content3 {
+        background-color: #ffffff;
+        margin-left: 2%;
+        margin-right: 2%;
+        padding-top: 5px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .portfolio {
+        margin-left: 2%;
+        background-color: #4aaaa5;
+        color: white;
+        float: left;
+        font-family: none;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 15px;
+        padding-bottom: 2px
+    }
+
+    #title2 ul {
+        padding: 0;
+        list-style: none;
+        float: right;
+        margin-top: 25px;
+        margin-right: 2%;
+    }
+
+    #contactfooter {
+        padding: 5px;
+        background: #4aaaa5;
+        clear: both;
+        margin-top: 40%;
+        margin-left: -5px;
+        margin-right: -5px;
+    }
+
+    #content2 {
+        background-color: #ffffff;
+        height: 650px;
+        margin-left: 2%;
+        margin-right: 2%;
+        padding: 25px;
+        padding-top: 5px;
+    }
+
+    .box1 {
+        float: left;
+        background: #eee;
+        width: 45%;
+        color: #fff;
+        height: 150px;
+        margin-top: 30px;
+        background-image: url(http://lorempixel.com/400/200/technics/1);
+    }
+
+    .box2 {
+        float: right;
+        background: #eee;
+        width: 45%;
+        color: #fff;
+        height: 150px;
+        margin-right: 1px;
+        margin-top: 30px;
+        background-image: url(http://lorempixel.com/400/200/technics/2);
+    }
+
+    .box3 {
+        float: left;
+        background: #eee;
+        width: 45%;
+        color: #fff;
+        height: 150px;
+        margin-top: 30px;
+        background-image: url(http://lorempixel.com/400/200/technics/3);
+    }
+
+    .box4 {
+        float: right;
+        background: #eee;
+        width: 45%;
+        color: #fff;
+        height: 150px;
+        margin-right: 1px;
+        margin-top: 30px;
+        background-image: url(http://lorempixel.com/400/200/technics/4);
+    }
+
+    .box5 {
+        float: left;
+        background: #eee;
+        width: 45%;
+        color: #fff;
+        height: 150px;
+        margin-top: 30px;
+        background-image: url(http://lorempixel.com/400/200/technics/5);
+    }
+
+}
+
+@media screen and (max-width: 640px) {
+    body {background-color: white;
+    }
+
+    .index {
+        background-color: #4aaaa5;
+        color: white;
+        height: 70px;
+        padding: 5px;
+        text-align: center;
+        font-family: none;
+        width: 640px;
+        margin-left: 0px;
+    }
+
+    #title ul {
+        float: right;
+        margin-right: 20%;
+    }
+
+    .portfolio {
+        margin-left: 0px;
+        width: 640px;
+        text-align: center;
+    }
+
+    #title2 ul {
+        margin-right: 25%;
+    }
+    
+    aside {
+        margin-top: 40%;
+        padding: 20px;
+        text-decoration-color: white;
+        background: #4aaaa5;
+        height: 15px;
+        border: 1px solid #eee;
+        text-align: center;
+        line-height: 5px;
+    }
+
+    .box1 {
+        width: 95%;
+        height: 250px;        
+        background-image: url(http://lorempixel.com/400/200/technics/1);
+    }
+
+    .box2 {
+        float: right;
+        background: #eee;
+        width: 95%;
+        color: #fff;
+        height: 250px;
+        margin-right: 5%;
+        /* margin-top: 30px; */
+        background-image: url(http://lorempixel.com/400/200/technics/2);
+    }
+
+    .box3 {
+        float: left;
+        background: #eee;
+        width: 95%;
+        color: #fff;
+        height: 250px;
+        background-image: url(http://lorempixel.com/400/200/technics/3);
+    }
+
+    #content2 {
+        height: 1500px;
+    }
+
+    .box4 {
+        float: right;
+        background: #eee;
+        width: 95%;
+        color: #fff;
+        height: 250px;
+        margin-right: 5%;
+        background-image: url(http://lorempixel.com/400/200/technics/4);
+    }
+
+    .box5 {
+        float: left;
+        background: #eee;
+        width: 95%;
+        color: #fff;
+        height: 250px;
+        background-image: url(http://lorempixel.com/400/200/technics/5);
+    }
+
+    @media screen and (max-width: 768px) {
+        body {
+          background-color: #333;
+        }
+
+
+
+}
